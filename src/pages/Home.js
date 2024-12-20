@@ -21,7 +21,7 @@ const Home = () => {
     <div className="home-container">
       <MovieSlider movies={movies} />
       <div className="latest-movies-section">
-        <h3>Latest Movies</h3>
+        <h3>Latest Movie List </h3>
         <div className="movies-list">
           {movies.map((movie) => (
             <div key={movie.id} className="movie-item">
