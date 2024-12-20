@@ -1,0 +1,36 @@
+/* src/pages/Home.css */
+.home-container {
+    padding: 20px;
+  }
+  
+  .latest-movies-section {
+    margin-top: 20px;
+  }
+  
+  .latest-movies-section h3 {
+    font-size: 24px;
+    text-align: center;
+  }
+  
+  .movies-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+  }
+  
+  .movie-item {
+    width: 200px;
+    text-align: center;
+  }
+  
+  .movie-item img {
+    width: 100%;
+    border-radius: 10px;
+  }
+  
+  .movie-item h5 {
+    margin: 10px 0;
+    font-size: 18px;
+  }
+  

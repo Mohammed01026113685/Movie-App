@@ -1,0 +1,19 @@
+/* src/components/MovieSlider.css */
+.movie-slider {
+    margin-bottom: 40px;
+  }
+  
+  .movie-slide {
+    text-align: center;
+  }
+  
+  .movie-image {
+    width: 100%;
+    border-radius: 10px;
+  }
+  
+  .movie-title {
+    margin-top: 10px;
+    font-size: 18px;
+  }
+  

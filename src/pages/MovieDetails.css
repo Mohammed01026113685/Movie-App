@@ -1,0 +1,39 @@
+/* تنسيقات خاصة لصفحة تفاصيل الفيلم */
+.summary p {
+    font-size: 1.1rem;
+    line-height: 1.6;
+  }
+  
+  h2 {
+    font-size: 2rem;
+    font-weight: bold;
+  }
+  
+  h4 {
+    font-size: 1.3rem;
+    font-weight: 500;
+    margin-bottom: 1rem;
+  }
+  
+  img {
+    max-height: 400px;
+    object-fit: cover;
+    border-radius: 8px;
+  }
+  
+  .btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+  }
+  
+  .btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #004085;
+  }
+  
+  /* تنسيقات إضافية لجعل النص في الأسفل أكثر وضوحاً */
+  .text-muted {
+    font-size: 1rem;
+    margin-bottom: 0.5rem;
+  }
+  
